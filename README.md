@@ -23,7 +23,7 @@ git clone https://github.com/Ghostoraner/System-Optimizer-Pro-v3.0.git
 cd System-Optimizer-Pro-v3.0
 python -m venv venv
 source venv/bin/activate
-python main.py
+sudo python main.py
 ```
 
 ---
